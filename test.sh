@@ -13,3 +13,4 @@ for file in "$@"; do
         echo "# foobar" >> "$file"
     fi
 done
+exit(0)
