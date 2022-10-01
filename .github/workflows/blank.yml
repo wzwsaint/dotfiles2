@@ -37,3 +37,6 @@ jobs:
       #wzwtianjia
       - name: ShellCheck
         uses: ludeeus/action-shellcheck@1.1.0
+      - name: Lint Markdown
+        uses: tomwhross/write-good-action@v1.5
+
